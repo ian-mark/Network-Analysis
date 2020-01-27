@@ -16,31 +16,14 @@ setting and to address the following question: Why do users participate in certa
 threads – i.e., reply to certain questions?
 
 
-References
-==========
-
-Your textbook 'Networks, Crowds, and Markets' has some chapters that are
-key to the design and execute the project, such as chapters 3, 4, 19, 20, 21,
-23.
-
-
-
 Data
 ====
 
-There are several dumps of the Stackoverflow platform:
-
-+ [official dump](https://data.stackexchange.com/stackoverflow/queries)
-+ [Archive dump](https://archive.org/details/stackexchange)
-+ [SNAP dump](http://snap.stanford.edu/data/sx-stackoverflow.html)
-+ Simone's dump (available upon request)
++ [official respository](https://data.stackexchange.com/stackoverflow/queries)
 
 
 Deliverables
 ------------
-
-By December 20 (5:00 PM), groups have to upload the following set of materials:
-
 + copy of Python scripts and/or the Jupyter notebook
 + supporting documentation (.md/.tex format) reporting:
   - a description of the netwrok analytics pipeline you have created (including
